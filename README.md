@@ -1,1 +1,1 @@
-# exercicios_progracamao_matematica
+# Exercícios Programação Matemática - GCC118
